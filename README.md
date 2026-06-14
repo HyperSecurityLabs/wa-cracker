@@ -14,9 +14,7 @@ A WhatsApp Framework That Your Mutual Fund Advisor Warned You About — Written 
 
 **A WhatsApp Framework That Your Mutual Fund Advisor Warned You About — Binary Edition**  
 *HypersecurityOffensiveLabs · Pre-compiled · Ready-to-run*
-
 `No Rust · No build · Just download and execute`
-
 <br>
 
 [![Linux](https://img.shields.io/badge/Platform-Linux-367bf0?style=for-the-badge&logo=kalilinux&logoColor=ffffff)]()
