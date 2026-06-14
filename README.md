@@ -141,7 +141,7 @@ WA-CRACKER is a **license-based premium tool**. First run prompts for activation
 
 1. Obtain password from **KhaninKali @ HyperSecurity Offensive Labs**
 2. Run `./wacrash` and enter the password
-3. License binds to your machine — valid for 30 days
+3. License based Activation — valid for 30 days
 
 **Contact for activation:**
 - Telegram: [@hypersecurity_offsec](https://t.me/hypersecurity_offsec)
