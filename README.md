@@ -10,7 +10,7 @@ A WhatsApp Framework That Your Mutual Fund Advisor Warned You About — Written 
                   \/  \/\_/ \_/===\____/\/ \_/\_/ \_/\__/\/ /_/\__/\/ \_/
 ```
 
-# WA-CRACKER
+# WA-CRASHER
 
 **A WhatsApp Framework That Your Mutual Fund Advisor Warned You About — Binary Edition**  
 *HypersecurityOffensiveLabs · Pre-compiled · Ready-to-run*
