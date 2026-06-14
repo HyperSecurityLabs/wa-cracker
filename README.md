@@ -118,7 +118,6 @@ Generate and deliver Unicode crash payloads.
 | **🔮 Session Persistence™** | Scan the QR code once. Forever. Your session outlives most startups and some marriages. Switch profiles like Netflix accounts. |
 | **🕶️ Headless Mode** | Run without a GUI (Chrome only). No display? No problem. Works on servers, VPS, Raspberry Pis, toasters with Linux support, and that old laptop you use as a coffee stand. |
 | **🎭 Multi-Profile Support** | Maintain separate sessions for "research," "more research," and "don't ask." Each with its own QR scan, cookies, and plausible excuse. |
-| **🔐 Machine-Bound License** | Your license is more loyal than your ex. Bound to hardware fingerprint, XOR-encrypted, hidden in 3 locations with `chattr +i`. Tamper with it and the binary ratio-hoods you. |
 | **🚫 No Python. No Node. No Docker.** | Zero dependencies. One binary. Your package manager will feel unemployed but your terminal will thank you. |
 
 ---
